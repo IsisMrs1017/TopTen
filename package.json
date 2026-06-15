@@ -1,0 +1,23 @@
+{
+  "name": "topten",
+  "version": "1.0.0",
+  "description": "Espacio para practicar automatización de pruebas de seguridad con Playwright.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsisMrs1017/TopTen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IsisMrs1017/TopTen/issues"
+  },
+  "homepage": "https://github.com/IsisMrs1017/TopTen#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3"
+  }
+}
